@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A silly petition to \"Require all restaurants to provide non-religiously slaughtered meat options\""
+tags: [islamophobia, veganism, vegetarianism]
 ---
 
 I saw [this petition](https://petition.parliament.uk/petitions/785354) going around today that asks the UK government to require all restaurants to provide non-religiously slaughtered meat options.
@@ -11,7 +12,7 @@ To get this out of the way, I see this petition as a thinly veiled Islamophobic 
 
 Also, just to be open, I do not eat meat. I grew up a vegetarian and believe that being vegan is morally better. I am very "vegan-sympathetic", in that, I would like to be a vegan if I had the self-control and the moral backbone to stick to my principles (yes, I also realize, being vegan is not easy on the wallet and hence not really an option for those who are poor). But I enjoy Pizza (one of my top three favourite foods) too much to be a vegan. Anyway, enough of my moral failings. Back to the petition.
 
-First: If people want to eat meat that is not religiously slaughtered, they need to find restaurants that meet their need. If there aren't any around them, then it probably means many people don't care. So why are then then making so much fuss about it? What exactly is the objection? Does that meat taste different? No, it doesn't. Then, is it just that in their mind, they feel this particular meat is religiously slaughtered and so they don't want it? Thinking about it a bit more, would they be ok if the food is not slaughtered as per religious needs, but was offered to the gods (say as a ritual) before being given to them? Would that also go against ther "freedom of choice"? What if the chefs pray before cooking? How about picutres of gods in the kitchen? See how irrational this whole ask is?
+First: If people want to eat meat that is not religiously slaughtered, they need to find restaurants that meet their need. If there aren't any around them, then it probably means many people don't care. So why are they then making so much fuss about it? What exactly is the objection? Does that meat taste different? No, it doesn't. Then, is it just that in their mind, they feel this particular meat is religiously slaughtered and so they don't want it? Thinking about it a bit more, would they be ok if the food is not slaughtered as per religious needs, but was offered to the gods (say as a ritual) before being given to them? Would that also go against ther "freedom of choice"? What if the chefs pray before cooking? How about picutres of gods in the kitchen? See how irrational this whole ask is?
 
 Second: What if I use the logic in the petition and say I want to be able to eat vegan food, and so I need every restaurant to have a vegan variant of every item on their menu. Or what if I demand that every non-veg restaurant also offer food slaughtered according to practice of [Jhatka](https://en.wikipedia.org/wiki/Jhatka) followed by some Sikhs? If the petition's logic is to be followed through, there are so many other similar scenarios that would force non-veg restaurants to provide unrealistically more and more choices. That is why, I feel, this petition is not really about "freedom of choice and conscience", but is intended to target Islam (or Judaism, but the share of Kosher food is very small in the UK, so more likely that Islam is the target)
 

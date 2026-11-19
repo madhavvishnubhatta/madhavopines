@@ -15,5 +15,6 @@ theme_config:
   show_misc_list: false
   show_projects: false
   show_old_projects: false
+  show_tags: true
 
 soopr: false
