@@ -1,0 +1,19 @@
+title: "Some opinons"
+description: "Some opinions on what I see around me"
+url: "https://vmadhav.co"
+baseurl: ""
+author: Madhav Vishnubhatta
+
+theme: moonwalk
+
+plugins:
+  - jekyll-feed
+
+theme_config:
+  appearance: "auto"        # light, dark or auto
+  appearance_toggle: true
+  show_misc_list: false
+  show_projects: false
+  show_old_projects: false
+
+soopr: false
