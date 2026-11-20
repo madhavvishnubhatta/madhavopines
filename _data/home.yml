@@ -7,7 +7,7 @@ navbar_entries:
 
 footer_entries:
   - title: Madhav's homepage
-    url: https://www.vmadhav.cc
+    url: https://vmadhav.cc
 
   - title: feed
     url: feed.xml
