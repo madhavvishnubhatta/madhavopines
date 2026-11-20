@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A silly petition to \"Require all restaurants to provide non-religiously slaughtered meat options\""
-tags: [islamophobia, veganism, vegetarianism]
+tags: [islamophobia, veganism, vegetarianism, religion]
 ---
 
 I saw [this petition](https://petition.parliament.uk/petitions/785354) going around today that asks the UK government to require all restaurants to provide non-religiously slaughtered meat options.
