@@ -25,7 +25,7 @@ When I broke the data down by caste, it looks pretty uniform across all the cast
 
 Note that while the caste breakdown categories are collections of many different castes, that does not necessarily mean that "Yes" means they were mariied to the person in the same category. The yes, I *think* indicates that they were married to a person of the same caste (not just in the same category) because the data point is described as "Husband's family same caste as your natal family", and I would think people would not answer it as "Yes" if both are, say, from the OBC category.
 
-I also split it by state and sorted it by decreasing % of "No" responses. While some of the states have too few people, which might make the percentage numbers there unreliable, but all but three are about 85%. This was before Telangana was formed and so you won't see it here.
+I also split it by state and sorted it by decreasing % of "No" responses. While some of the states have too few people, which might make the percentage numbers there unreliable, but all but three states are above 85%. This was before Telangana was formed and so you won't see it here.
 
 |State|No|Yes|No%|Yes%|
 |---|---|---|---|---|
